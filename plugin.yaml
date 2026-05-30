@@ -1,0 +1,6 @@
+manifest_version: 1
+name: hosting-digest
+version: 0.1.0
+kind: standalone
+description: Manually trigger the hosting infrastructure cost digest from chat.
+author: Tyler Cooper (mercury-dev-bot) + Hermes Agent
